@@ -122,6 +122,12 @@
               "devServerTarget": "portfolio-main:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "baseHref": "/testing/"
+          }
         }
       }
     }
