@@ -1,0 +1,17 @@
+{
+    "firstName": "Frank",
+    "lastName": " Magalhães",
+    "intro": [
+        "I'm a Desenvolvedor Front-end, gosto de café, música & jogos.Também gosto muito de tecnologia!Rs, Por essa você não esperava, não é mesmo? Sempre fui fascinado pelo mundo do desenvolvimento de software e desde  então estudo constantemente para conquistar meus objetivos.",
+        "Você pode dar uma olhada em alguns dos meus trabalhos aqui."
+    ],
+    "about": [
+        "Olá, sou o Frank, Desenvolvedor Front-End com foco em soluçoes de problemas, design, performance e SEO. ",
+        "Minha jornada começou a cerca de um ano e meio quando decidir mudar de área e me aproximar da minha familia.Me mudei para São Paulo com o auxílio de meu cunhado, que é senior em desenvolvimento frontend.",
+        "Sempre acompanhei as rotinas dele como desenvolvedor, até ajudava em projetos e  com isso tive um workshop de que era isso que eu queria.E aqui estou,estudando a  cerca de um ano ,como um bom entusiasta por conhecimento,quanto mais aprendo ,mais me apaixono e estou certo de que o caminho é esse.Hoje me considero um desenvolvedor frontend , porém tenho interesse em aprofundar meus conhecimentos a me tornar um desenvolvedor fullstack por também se interessar pela área do backend.",
+    "No momento atual meus estudos estão voltados a melhorar minhas perfomances em consultas a APIS RestFull,testes unitários,Rxjs, Firebase para desenvolvimento de WebApps,apesar de está trabalhando em projetos pessoais,gostaria de estar a frente de projetos reais.",
+    "Atualmente entendo que ainda há muito o que aprender,mas já me encontro seguro em participar de projetos que utilizam HTML5, CSS3, JavaScript, Angular 2+, TypeScript, GIT, Node.js, Bootstrap, Sass, ferramenta de prototipagem(figma),entre outras linguagens e técnicas de desenvolvimento."
+    ]
+}
+
+

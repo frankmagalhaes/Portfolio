@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Memory Game",
+        "stack": {
+            "name": "HTML, CSS, JAVASCRIPT "
+          
+             
+        },
+        "description": "Jogo da memória com tema de League of Legends feito com HTML, CSS e JavaScript",
+        "sourceUrl": "https://github.com/frankmagalhaes/memory-gamerLOL",
+        "previewUrl": "https://frankmagalhaes.github.io/memory-gamerLOL/index.html",
+        "featured": true
+    },
+    {
+        "name": "PokeDex Angular",
+        "stack": {
+            "name": "TYPESCRIPT, ANGULAR, HTML, SCSS,"
+           
+        },
+        "description": "Uma pokedex que faz listagem e visualização de pokémons consumindo dados de uma api.",
+        "sourceUrl": "https://github.com/frankmagalhaes/pokedex-angular",
+        "previewUrl": "https://github.com/frankmagalhaes/pokedex-angular",
+        "featured": true
+    },
+    {
+        "name": "Algorithm Visualization App",
+        "stack": {
+            "name": "Angular",
+            "iconClasses": "fab fa-angular"
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "sourceUrl": "https://github.com",
+        "previewUrl": "https://github.com",
+        "featured": true
+    },
+    {
+        "name": "Time Tracking CLI App",
+        "stack": {
+            "name": "Node.js",
+            "iconClasses": "fab fa-node-js"
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "sourceUrl": "https://github.com",
+        "previewUrl": "https://github.com",
+        "featured": true
+    }
+]
