@@ -17,12 +17,12 @@
                 <p class="card-text text-left">
                     {{project.description}}
                 </p>
-                <div class="d-flex flex-row justify-content-start ">
-                    <a [href]="project.previewUrl" *ngIf="project.previewUrl" class="btn btn-dark">
+                <div class="d-flex flex-row justify-content-center ">
+                    <a [href]="project.previewUrl" target="_blank" *ngIf="project.previewUrl" class="btn ">
                         <i class="fa-lg mr-1 far fa-eye"></i>
                         Preview
                     </a>
-                    <a [href]="project.sourceUrl" *ngIf="project.sourceUrl" class="btn btn-dark ">
+                    <a [href]="project.sourceUrl" target="_blank" *ngIf="project.sourceUrl" class="btn  ">
                         <i class="fa-lg mr-1 fab fa-github-alt"></i>
                         Source
                     </a>
@@ -30,7 +30,7 @@
             </div>
         </div>
     </div>
-    <button *ngIf="isHome$ | async" routerLink="/projects" class="mt-3 btn btn-dark">
+    <button *ngIf="isHome$ | async" routerLink="/projects" class="mt-3 btn-end">
         See More Projects
         <i class="ml-1 fas fa-angle-right"></i>
     </button>

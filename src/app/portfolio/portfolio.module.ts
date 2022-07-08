@@ -5,6 +5,7 @@ import { PortfolioRoutingModule } from './portfolio-routing.module';
 import { HomeComponent } from './home/home.component';
 import { AboutComponent } from './about/about.component';
 import { ProjectsComponent } from './projects/projects.component';
+import { ContactComponent } from './contact/contac.component';
 
 
 
@@ -12,7 +13,8 @@ import { ProjectsComponent } from './projects/projects.component';
   declarations: [
     HomeComponent,
     AboutComponent,
-    ProjectsComponent
+    ProjectsComponent,
+    ContactComponent
   ],
   imports: [
     CommonModule,

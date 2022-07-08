@@ -15,7 +15,7 @@ export class HeaderComponent implements OnInit {
   menuItems = [
     { title: 'About Me', homePath: '/', fragment: 'about', pagePath: '/about' },
     { title: 'My Projects', homePath: '/', fragment: 'projects', pagePath: '/projects' },
-    { title: 'My Blog', homePath: '/blog', fragment: '', pagePath: '/blog' }
+    { title: 'Contacts', homePath: '/contact', fragment: '', pagePath: '/contact' }
   ];
 
 

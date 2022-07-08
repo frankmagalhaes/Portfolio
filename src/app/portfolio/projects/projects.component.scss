@@ -16,4 +16,42 @@
 
 .btn {
     margin:  0 5px;
+   
+    color:#22263A;
+
+    
 }
+.btn:hover{
+    background-color: #EFB13D ;
+
+}
+
+.btn-end{
+    margin-right: 30px;
+    font-size: 20px;
+    font-weight: 200;
+    letter-spacing: 1px;
+    padding: 13px 30px 13px;
+    outline: 0;
+    border: 1px solid black;
+    cursor: pointer;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0);
+    
+}
+
+.btn-end::after {
+    content: "";
+    background-color: #EFB13D;
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+    height: 100%;
+    top: 7px;
+    left: 7px;
+  }
+
+  .btn-end:hover::after {
+    top: 0px;
+    left: 0px;
+  }

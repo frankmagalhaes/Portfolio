@@ -1,0 +1,56 @@
+<div *ngFor="let options of respOptions" [ngClass]="options.viewClasses"
+    class="flex-column align-items-center text-center vw-90 mx-auto">
+    <h1 [ngClass]="options.titleClasses" class="mb-2" > Contacts</h1>
+    <div [ngClass]="{'justify-content-center  flex-wrap': !options.displayInColumn,  'flex-column align-items-center': options.displayInColumn}"
+        class="d-flex vw-90">
+
+      
+    </div>
+    <div class="container">
+        <div class="contactInfo">
+            <div class="box">
+                <div class="icon"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
+                <div class="text">
+                    <h3>Location</h3>
+                    <p>Araçatuba - SP</p>
+                </div>
+            </div>
+            <div class="box">
+                <div class="icon"><i class="fa fa-phone" aria-hidden="true"></i></div>
+                <div class="text">
+                    <h3>Phone</h3>
+                    <p>(18) 98133-4163</p>
+                </div>
+            </div>
+            <div class="box">
+                <div class="icon"><i class="fa fa-envelope-o" aria-hidden="true"></i></div>
+                <div class="text">
+                    <h3>Location</h3>
+                    <p>Araçatuba - SP</p>
+                </div>
+            </div>
+        </div>
+       </div>
+
+
+        <div class="menu-social">
+        <ul class="wrapper">
+            <li class="icon media">
+              <span class="tooltip">Whatsapp</span>
+              <a href="https://api.whatsapp.com/message/DBN3NXFXV5C6J1?autoload=1&app_absent=0" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
+            </li>
+            <li class="icon media">
+              <span class="tooltip">Github</span>
+              <a href="https://github.com/frankmagalhaes" target="_blank"><i class="fab fa-github"></i></a>
+            </li>
+            <li class="icon media">
+              <span class="tooltip">Linkedin</span>
+              <a href="https://www.linkedin.com/in/frank-magalhaes/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
+            </li>
+              <li class="icon media">
+              <span class="tooltip">Instagram</span>
+              <a href="https://www.instagram.com/frannksm/" target="_blank"><i class="fab fa-instagram"></i></a>
+            </li>
+          </ul>
+        </div> 
+</div>

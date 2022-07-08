@@ -6,20 +6,20 @@
           
              
         },
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Jogo da memória com tema de League of Legends feito com HTML, CSS e JavaScript",
         "sourceUrl": "https://github.com/frankmagalhaes/memory-gamerLOL",
         "previewUrl": "https://frankmagalhaes.github.io/memory-gamerLOL/index.html",
         "featured": true
     },
     {
-        "name": "E-commerce Store",
+        "name": "PokeDex Angular",
         "stack": {
-            "name": "React",
-            "iconClasses": "fab fa-react"
+            "name": "TYPESCRIPT, ANGULAR, HTML, SCSS,"
+           
         },
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "sourceUrl": "https://github.com",
-        "previewUrl": "https://github.com",
+        "description": "Uma pokedex que faz listagem e visualização de pokémons consumindo dados de uma api.",
+        "sourceUrl": "https://github.com/frankmagalhaes/pokedex-angular",
+        "previewUrl": "https://github.com/frankmagalhaes/pokedex-angular",
         "featured": true
     },
     {
