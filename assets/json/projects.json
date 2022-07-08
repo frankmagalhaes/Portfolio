@@ -23,21 +23,21 @@
         "featured": true
     },
     {
-        "name": "Algorithm Visualization App",
+        "name": "Em construçao...",
         "stack": {
             "name": "Angular",
             "iconClasses": "fab fa-angular"
         },
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "sourceUrl": "https://github.com",
-        "previewUrl": "https://github.com",
+        "sourceUrl": "https://github.com/frankmagalhaes",
+        "previewUrl": "https://github.com/frankmagalhaes",
         "featured": true
     },
     {
-        "name": "Time Tracking CLI App",
+        "name": "Em construçao...",
         "stack": {
-            "name": "Node.js",
-            "iconClasses": "fab fa-node-js"
+            "name": "Node.js"
+           
         },
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "sourceUrl": "https://github.com",
