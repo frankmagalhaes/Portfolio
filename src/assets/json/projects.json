@@ -2,19 +2,19 @@
     {
         "name": "Memory Game",
         "stack": {
-            "name": "HTML, CSS, JAVASCRIPT "
+            "name": "Javascript, Html, Css "
           
              
         },
-        "description": "Jogo da memória com tema de League of Legends feito com HTML, CSS e JavaScript",
+        "description": "Jogo da memória com tema de League of Legends ",
         "sourceUrl": "https://github.com/frankmagalhaes/memory-gamerLOL",
         "previewUrl": "https://frankmagalhaes.github.io/memory-gamerLOL/index.html",
         "featured": true
     },
     {
-        "name": "PokeDex Angular",
+        "name": "Pokedex Pokemon",
         "stack": {
-            "name": "TYPESCRIPT, ANGULAR, HTML, SCSS,"
+            "name": "Typescript, Angular, Html, Scss"
            
         },
         "description": "Uma pokedex que faz listagem e visualização de pokémons consumindo dados de uma api.",
@@ -23,21 +23,21 @@
         "featured": true
     },
     {
-        "name": "Algorithm Visualization App",
+        "name": "Weatherapp",
         "stack": {
-            "name": "Angular",
-            "iconClasses": "fab fa-angular"
+            "name": "Typescript, Angular, Html, Scss"
+           
         },
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "sourceUrl": "https://github.com",
-        "previewUrl": "https://github.com",
+        "description": "Aplicativo web sobre previsão do clima fazendo requisiçao de uma API dos valores meteorológicos em tempo real",
+        "sourceUrl": "https://github.com/frankmagalhaes/weatherheroku",
+        "previewUrl": "https://weatherherokuapp.herokuapp.com/",
         "featured": true
     },
     {
-        "name": "Time Tracking CLI App",
+        "name": "Em construçao...",
         "stack": {
-            "name": "Node.js",
-            "iconClasses": "fab fa-node-js"
+            "name": "Node.js"
+           
         },
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "sourceUrl": "https://github.com",

@@ -14,14 +14,23 @@
     max-width: 20ch;
 }
 
-.btn {
-    margin:  0 5px;
-   
-    color:#22263A;
-
+.card-body {
+    position: relative;
+    margin-top: 10px;
     
 }
-.btn:hover{
+
+.btn-div{
+    position: absolute;
+    bottom: 0;
+}
+.btn {
+    margin:   5px;
+    color:#22263A; 
+   
+}
+
+.btn:hover {
     background-color: #EFB13D ;
 
 }

@@ -5,7 +5,7 @@ const routes: Routes = [
   {
      path: '', 
      loadChildren: () => import('./portfolio/portfolio.module').then(m => m.PortfolioModule) 
-    }
+    },
   ];
 
 @NgModule({
